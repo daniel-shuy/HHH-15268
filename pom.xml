@@ -9,7 +9,7 @@
 	<description>Based on org.hibernate.testcasetemplate:test-case-template-hibernate-orm6</description>
 
 	<properties>
-		<version.com.h2database>2.1.212</version.com.h2database>
+		<version.com.h2database>2.2.220</version.com.h2database>
 		<version.junit>4.13.2</version.junit>
 		<version.org.hibernate>6.0.1.Final</version.org.hibernate>
 		<version.org.slf4j>1.7.33</version.org.slf4j>
